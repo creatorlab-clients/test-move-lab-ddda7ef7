@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://movelabsp.com.br/sitemap.xml
